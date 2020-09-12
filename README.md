@@ -9,3 +9,5 @@ Create a new branch
 Creating a new branch is quick and simple.
 
 A change
+
+Fix a bug
